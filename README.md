@@ -1,4 +1,7 @@
 ## Hi there, I am Sebastian Blicher👋
+Im 27 years old and im originally from Esbjerg, Denmark but i have lived in Copenhagen for around 6 years.
+I have an education as a sales assistent and trade economist, but i have now choosen a new road in multimedia design, where i currently now am studying in my 3.semester and i am now preparing to look for an internship for my last semester.
+
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
